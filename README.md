@@ -14,6 +14,7 @@ In this notebook, I show how to:
 The prerequisites for this notebook include:
 * pandas
 * skLearn
+* nilearn
 
 Outputs from notebook:
 ![Image Outputs](https://github.com/garciakathy/BrainVisualization/blob/main/brainViz.png)
