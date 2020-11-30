@@ -16,4 +16,4 @@ The prerequisites for this notebook include:
 * skLearn
 
 Outputs from notebook:
-!Image Outputs(https://github.com/garciakathy/BrainVisualization/mats/brainViz.png?raw=true)
+!Image Outputs(https://github.com/garciakathy/BrainVisualization/brainViz.png?raw=true)
